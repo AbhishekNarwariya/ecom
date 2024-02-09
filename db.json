@@ -1,0 +1,22 @@
+{
+  "seller": [
+    {
+      "id": "d854",
+      "name": "abhishek",
+      "passsward": "12345678",
+      "email": "abhishek@gmail.com"
+    },
+    {
+      "id": "ca0e",
+      "name": "Abhishek Narwariya",
+      "password": "sf",
+      "email": "sdff"
+    },
+    {
+      "id": "5017",
+      "name": "tillu",
+      "password": "1234",
+      "email": "tillu@123"
+    }
+  ]
+}
