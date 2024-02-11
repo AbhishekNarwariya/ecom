@@ -1,40 +1,6 @@
 {
   "seller": [
-    {
-      "id": "d854",
-      "name": "abhishek",
-      "passsward": "12345678",
-      "email": "abhishek@gmail.com"
-    },
-    {
-      "id": "ca0e",
-      "name": "Abhishek Narwariya",
-      "password": "sf",
-      "email": "sdff"
-    },
-    {
-      "id": "5017",
-      "name": "tillu",
-      "password": "1234",
-      "email": "tillu@123"
-    },
-    {
-      "id": "d334",
-      "name": "kalla",
-      "password": "kaklalal",
-      "email": "dkdkddldl"
-    },
-    {
-      "id": "4340",
-      "name": "abhi",
-      "password": "abhi",
-      "email": "abhi"
-    },
-    {
-      "id": "d825",
-      "name": "tillu",
-      "password": "tillu",
-      "email": "tillu"
-    }
+   
+    
   ]
 }
